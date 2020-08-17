@@ -17,7 +17,7 @@
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://entekang.github.io/post/project-1/</guid>
-      <description>Created a Machine Learning model to predict survival outcomes of passengers Cleaned the data using Pandas; imputed missing values, created dummy variables Engineered features such as whether the passenger was onboard alone Used scikit-learn to develop models for prediction (RandomForests, DecisionTrees, K Neighbours etc.)  The github repository: https://github.com/entekang/Titanic_ML The kaggle notebook: https://www.kaggle.com/entekang/titanic</description>
+      <description>Created a Machine Learning model to predict survival outcomes of passengers Cleaned the data using Pandas; imputed missing values, created dummy variables Engineered features such as whether the passenger was onboard alone Used scikit-learn to develop models for prediction (RandomForests, DecisionTrees, K Neighbours etc.)  The github repository: https://github.com/entekang/Titanic_ML</description>
     </item>
     
     <item>
