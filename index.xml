@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Ente Kang</title>
+    <title>Ente Kang</title>
     <link>https://entekang.github.io/</link>
-    <description>Recent content in Welcome on Ente Kang</description>
+    <description>Recent content on Ente Kang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://entekang.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://entekang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualizations in R</title>
+      <link>https://entekang.github.io/post/project-2/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://entekang.github.io/post/project-2/</guid>
+      <description>Here you will find some interesting and cool visualizations that I&amp;rsquo;ve made using the ggplot2 library.
+Before producing the plots, the datasets had to be cleaned and manipulated. I used various packages such as lubridate to clean dates, and dplyr.
+      Github Video game sales
+Halloween horror movies</description>
+    </item>
     
     <item>
       <title>Machine Learning in Titanic</title>
