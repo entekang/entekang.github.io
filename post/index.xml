@@ -6,10 +6,18 @@
     <description>Recent content in Projects on Ente Kang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://entekang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://entekang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualizations in R</title>
+      <link>https://entekang.github.io/post/project-2/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://entekang.github.io/post/project-2/</guid>
+      <description>Here you will find some interesting and cool visualizations that I&amp;rsquo;ve made using the ggplot2 library.
+Before producing the plots, the datasets had to be cleaned and manipulated. I used various packages such as lubridate to clean dates, and dplyr.
+      Github Video game sales
+Halloween horror movies</description>
+    </item>
     
     <item>
       <title>Machine Learning in Titanic</title>
@@ -17,7 +25,7 @@
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://entekang.github.io/post/project-1/</guid>
-      <description>Created a Machine Learning model to predict survival outcomes of passengers Cleaned the data using Pandas; imputed missing values, created dummy variables Engineered features such as whether the passenger was onboard alone Used scikit-learn to develop models for prediction (RandomForests, DecisionTrees, K Neighbours etc.)  The github repository: https://github.com/entekang/Titanic_ML</description>
+      <description>Created a Machine Learning model to predict survival outcomes of passengers Cleaned the data using Pandas; imputed missing values, created dummy variables Engineered features such as whether the passenger was onboard alone Used scikit-learn to develop models for prediction (RandomForests, DecisionTrees, K Neighbours etc.)  The github repository: https://github.com/entekang/Titanic_ML The kaggle notebook: https://www.kaggle.com/entekang/titanic</description>
     </item>
     
   </channel>
